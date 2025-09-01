@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="800">
+</p>
+
+
 <!-- Título -->
 <h1 align="center">👋 Hola, soy Daniela</h1>
 
