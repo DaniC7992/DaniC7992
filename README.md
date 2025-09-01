@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" width="800">
+  <img src="https://github.com/DaniC7992/DaniC7992/blob/main/Azul%20Oscuro%20Cian%20Amarillo%20Ne%C3%B3n%20Grunge%20Juegos%20Banner%20de%20Twitch%20(1).png" alt="Banner" width="800">
 </p>
 
 
